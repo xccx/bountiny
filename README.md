@@ -154,7 +154,7 @@ GAMES
 
 A) BOUNTINY build bountiny on bountiny MVP at Replit Dev Hack Night 04/25
 
-Z) GIT NOSTR 1.2 billion SAT bounty for the win ($325,000) 
+Z) GIT NOSTR 1.2 billion SAT bounty for the win ($275,000) 
 
 
 ^    
