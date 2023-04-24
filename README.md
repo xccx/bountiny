@@ -68,8 +68,8 @@ thanks!
 
 |
 
-# PS if MVP works then go for $325,000 bounty fixing GIT for nostr:
-https://makers.bolt.fun/story/12-btc-bounty-to-create-a-github-clone-using-nostr--571
+# PS if MVP works then go for $275,000 bounty fixing GIT for nostr:
+https://www.reddit.com/r/Bitcoin/comments/11hxcyf/jack_dorsey_has_set_a_1_billion_sats_10_bitcoin/
 
 ^     
 |
